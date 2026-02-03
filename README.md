@@ -44,7 +44,7 @@ This chart highlights item classes with \*\*no stock against total open orders\*
 
 
 
-!\[Critical Items by Manufacturing Class](screenshots/dashboard\_overview.png)
+![Critical Items by Manufacturing Class](screenshots/dashboard_overview.png)
 
 
 
@@ -62,7 +62,7 @@ This view shows inventory risk where:
 
 
 
-!\[On-Hand vs All-In Analysis](screenshots/onhand\_vs\_allin.png)
+![On-Hand vs All-In Analysis](screenshots/onhand_vs_allin.png)
 
 
 
@@ -76,7 +76,7 @@ Week-wise comparison by item class to prioritize replenishment actions and highl
 
 
 
-!\[On-Hand vs Open Orders](screenshots/onhand\_vs\_openorders.png)
+![On-Hand vs Open Orders](screenshots/onhand_vs_openorders.png)
 
 
 
