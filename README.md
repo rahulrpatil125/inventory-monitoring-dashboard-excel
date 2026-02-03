@@ -62,7 +62,7 @@ Week-wise comparison by item class to prioritize replenishment actions and highl
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 inventory-monitoring-dashboard-excel/
 ├─ data/
@@ -79,7 +79,7 @@ inventory-monitoring-dashboard-excel/
 
 ---
 
-## ▶️ How to Use
+## How to Use
 1. Open the Excel dashboard workbook
 2. Refresh pivot tables and charts if needed
 3. Use slicers to filter by vendor, customer, item class, or week
@@ -87,5 +87,5 @@ inventory-monitoring-dashboard-excel/
 
 ---
 
-## 🚀 Why This Project Matters
+## Why This Project Matters
 This project reflects real-world operational reporting, where Excel remains a core tool for quick analysis, stakehold
