@@ -6,7 +6,7 @@ This project demonstrates how raw inventory and open-order data can be transform
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To provide a clear and structured overview of:
 - Items with no stock against open orders
@@ -16,9 +16,9 @@ To provide a clear and structured overview of:
 
 ---
 
-## 📊 Dashboard Results (Quick Visual Overview)
+## Dashboard Results (Quick Visual Overview)
 
-### 1️⃣ Critical Items by Manufacturing Class (Last 3 Weeks)
+### Critical Items by Manufacturing Class (Last 3 Weeks)
 
 This chart highlights item classes with no stock against total open orders, tracked across multiple weeks to identify persistent and recurring shortages.
 
@@ -26,7 +26,7 @@ This chart highlights item classes with no stock against total open orders, trac
 
 ---
 
-### 2️⃣ Items with On-Hand &lt; 45 Days and All-In &lt; 90 Days
+### Items with On-Hand &lt; 45 Days and All-In &lt; 90 Days
 
 This view shows inventory risk where:
 - On-hand stock is insufficient to cover the next 45 days
@@ -36,7 +36,7 @@ This view shows inventory risk where:
 
 ---
 
-### 3️⃣ On-Hand &lt; 45 Days vs Total Open Orders (Last 3 Weeks)
+### On-Hand &lt; 45 Days vs Total Open Orders (Last 3 Weeks)
 
 Week-wise comparison by item class to prioritize replenishment actions and highlight worsening or improving stock situations.
 
@@ -44,7 +44,7 @@ Week-wise comparison by item class to prioritize replenishment actions and highl
 
 ---
 
-## 🔑 Key Insights Enabled
+## Key Insights Enabled
 - Identification of high-risk item classes with repeated shortages
 - Customer-wise visibility of stock gaps impacting open orders
 - Trend comparison across weeks to detect supply risk patterns
@@ -52,7 +52,7 @@ Week-wise comparison by item class to prioritize replenishment actions and highl
 
 ---
 
-## 🛠 Tools & Techniques Used
+## Tools & Techniques Used
 - Microsoft Excel
   - Pivot Tables
   - Advanced Formulas
