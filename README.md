@@ -68,7 +68,6 @@ inventory-monitoring-dashboard-excel/
 ├─ data/
 │ └─ raw/
 │ └─ stock_less_than_all_in_qty.xlsx
-├─ docs/
 │ └─ metrics.md
 ├─ screenshots/
 │ ├─ dashboard_overview.png
